@@ -198,6 +198,16 @@ div#footbutton {
     line-height: 100%;
 }
 
+.btn-square-directional {
+    font-size: 10vw;
+    width: 33.333%;
+    height: 30vw;
+    flex: 1;
+    padding: 0px;
+    text-align: center;
+    line-height: 100%;
+}
+
 .title {
     padding: 1vw 0px;
     margin: 1rem 0px 0px 0px;
